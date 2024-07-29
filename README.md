@@ -2,6 +2,24 @@
 
 This is a task manager application built with CakePHP. It allows users to manage tasks in a Trello-like fashion.
 
+## Screenshots
+
+### Login Page
+
+![Login Page](screenshots/login.png)
+
+### Add User Page
+
+![Add User Page](screenshots/add.png)
+
+### Task List Page
+
+![Task List Page](screenshots/tasks.png)
+
+### View Task Page
+
+![View Task Page](screenshots/viewTask.png)
+
 ## Setup Instructions
 
 ### Prerequisites
@@ -74,3 +92,5 @@ This is a task manager application built with CakePHP. It allows users to manage
 - You can register a new user by navigating to `/users/add`.
 - After logging in, you will be redirected to the tasks page.
 - You can add, edit, and delete tasks as needed.
+
+
