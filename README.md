@@ -16,7 +16,7 @@ This is a task manager application built with CakePHP. It allows users to manage
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/task-manager.git
+    git clone https://github.com/bipana50/TaskManagerCakePHP.git
     cd task-manager
     ```
 
